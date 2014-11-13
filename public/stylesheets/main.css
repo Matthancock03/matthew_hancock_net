@@ -1,0 +1,15 @@
+.paneled {
+  background-color: white;
+  border: 2px solid;
+  border-radius: 25px;
+}
+.paneledmain {
+  background-color: #D9D6CE;
+  border: 2px solid;
+  border-radius: 25px;
+  padding-bottom: 35px;
+}
+
+.paneledholder{
+margin-bottom: 25px;	
+}
